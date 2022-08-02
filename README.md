@@ -6,4 +6,4 @@ Download the CCNA-Mindmap as **PDF**, **PNG** or **xmind-file**.
   
   Checkout my blog-article how mindmaps help you to study for your IT-certifcation.  
     
-    Blog-Article:  
+  Blog-Article:  
